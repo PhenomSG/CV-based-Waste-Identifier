@@ -1,0 +1,35 @@
+Examples of waste items for each of the four categories:
+
+1. **Organic Waste:**
+   - Food scraps (e.g., fruit peels, vegetable trimmings) -DONE
+   - Yard trimmings (e.g., grass clippings, leaves) -DONE
+   - Coffee grounds and tea bags -DONE
+   - Eggshells -DONE
+   - Plant-based kitchen waste -DONE
+
+2. **Recyclable Waste:**
+   - Paper products (e.g., newspapers, office paper, cardboard boxes)-DONE
+   - Plastic bottles (e.g., water bottles, soda bottles)-DONE
+   - Aluminum cans-DONE
+   - Glass containers (e.g., glass bottles, jars)-DONE
+   - Steel cans (e.g., food cans, soup cans)-DONE
+
+3. **Hazardous Waste:**
+   - Batteries (e.g., alkaline batteries, lithium-ion batteries) -DONE
+   - Paints and solvents -DONE
+   - Pesticides and insecticides -DONE
+   - Fluorescent light bulbs -DONE
+   - Electronic waste (e-waste) like old computer monitors or mobile phones -DONE
+   - Gloves and Masks -DONE
+
+4. **Non-Recyclable/Residual Waste:**
+   - Plastic bags and wrappers -DONE
+   - Disposable diapers -DONE
+   - Styrofoam products (e.g., food containers, packaging materials) -DONE
+   - Broken ceramics or glassware -DONE
+   - Sanitary items (e.g., tissues, feminine hygiene products) -DONE
+
+# 0 - Hazardous
+# 1 - Non - Recyclable
+# 2 - Organic
+# 3 - Recyclable
